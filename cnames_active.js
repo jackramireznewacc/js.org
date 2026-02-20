@@ -396,6 +396,7 @@ var cnames_active = {
   "boldom": "marcisbee.github.io/boldom",
   "bombsweeper": "pakastin.github.io/bombsweeper",
   "bonzibuddy": "fardindadev.github.io/bonzibuddy",
+  "bookmarklet-ahrefs": "jackramireznewacc.github.io/bookmarklet-ahrefs",
   "bookmarklets": "zelnickb.github.io/bookmarklets",
   "bool": "booljs.github.io",
   "booru": "atlasthebot.github.io/booru",
